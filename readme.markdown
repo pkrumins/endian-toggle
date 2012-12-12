@@ -2,6 +2,8 @@
 
 Toggle the byte ordering of a buffer.
 
+[![browser support](http://ci.testling.com/substack/endian-toggle.png)](http://ci.testling.com/substack/endian-toggle)
+
 [![build status](https://secure.travis-ci.org/substack/endian-toggle.png)](http://travis-ci.org/substack/endian-toggle)
 
 # example
