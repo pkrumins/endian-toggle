@@ -21,6 +21,7 @@
             "chrome" : [ 10, 22 ],
             "safari" : [ 5.1 ],
             "opera" : [ 12 ]
+        }
     },
     "repository" : {
         "type" : "git",
